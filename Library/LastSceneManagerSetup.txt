@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Prueba Rebote Bola.unity
+  isLoaded: 1
+  isActive: 1
