@@ -78,7 +78,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ReboteBola1.cs" />
     <Compile Include="Assets\Scripts\MoverBola2.cs" />
   </ItemGroup>
   <ItemGroup>
